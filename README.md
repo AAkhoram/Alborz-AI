@@ -26,7 +26,7 @@
 | **فریم‌ورک** | PyTorch |
 | **توکنایزر** | HuggingFace Tokenizers (BPE) |
 | **وابستگی‌های اصلی** | `torch`, `tokenizers`, `tqdm` |
-| **مجوز** | MIT (پیشنهادی) |
+| **مجوز** | MIT |
 
 ---
 
@@ -386,7 +386,7 @@ MIT License — آزاد برای استفاده شخصی و تجاری
 | **Framework** | PyTorch |
 | **Tokenizer** | HuggingFace Tokenizers (BPE) |
 | **Main Dependencies** | `torch`, `tokenizers`, `tqdm` |
-| **License** | MIT (recommended) |
+| **License** | MIT |
 
 ---
 
